@@ -1,0 +1,9 @@
+hi basic commans in linux
+
+ls
+cd
+mkdir
+rm
+nano
+vim
+cat
